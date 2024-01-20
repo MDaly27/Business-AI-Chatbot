@@ -1,0 +1,16 @@
+Welcome to the Business Chatbot!
+
+You: What products are currently available?
+Chatbot: Currently, we have various products available. Is there something specific you're looking for?
+
+You: How much is a Coca-Cola?
+Chatbot: I'm sorry, but we are currently out of Coca-Cola stock. Is there anything else you would like to inquire about?
+
+You: Can I get gas on Friday at 6:45?
+Chatbot: Yes, absolutely! On Fridays, the gas station operates 24/7, so you can get gas at any time, including 6:45 PM.
+
+You: When can I get a car wash?
+Chatbot: The car wash is available from Monday to Friday, specifically between 8 AM and 6 PM. Unfortunately, the car wash is not available on Saturdays or Sundays.
+
+You: Exit
+Chatbot: Goodbye!
